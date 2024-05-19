@@ -13,4 +13,4 @@ plugins {
 }
 
 rootProject.name = 'Interviews'
-include('app', 'list', 'utilities')
+include('app', 'leetcode', 'list', 'utilities')
